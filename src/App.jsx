@@ -136,7 +136,7 @@ const Portfolio = () => {
               <a href="mailto:srisaikudavalli@gmail.com" className="bg-teal-500 hover:bg-teal-600 text-white px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2 shadow-lg shadow-teal-500/25">
                 <Mail size={18} /> Contact Me
               </a>
-              <a href="#" className="bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2">
+              <a href="/resume.pdf" download="Sri_Sai_Kudavalli_Resume.pdf" className="bg-slate-800 hover:bg-slate-700 text-white border border-slate-700 px-6 py-3 rounded-lg font-medium transition-all flex items-center gap-2">
                 <FileText size={18} /> Download Resume
               </a>
             </div>
